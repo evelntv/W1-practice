@@ -1,11 +1,17 @@
-h1 {
-  color: blueviolet;
-  font-family: "Montserrat", sans-serif;
+body {
+  /*   color: orange;
+*/
+  width: 100%;
+  height: 100%;
 }
-.red {
-  color: red;
+span {
+  display: block;
+  margin-bottom: 20px;
 }
-p {
-  color: greenyellow;
-  font-size: 16px;
+
+.box {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+  padding: 30px;
 }
